@@ -32,3 +32,5 @@ $ conda activate pandorable-pandas
 ```console
 $ jupyter notebook
 ```
+
+And open "Introduction.ipynb".
