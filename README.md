@@ -14,14 +14,14 @@ git clone https://github.com/TomAugspurger/pandorable-pandas.git
 
 Or click the green "Code" button and "Download Zip". Extract the repository from the zip archive.
 
-2. Navigate to the repository in a terminal with `conda`.
+2. Navigate to the repository (`cd pandorable-pandas`) in a terminal with `conda` on your `PATH`.
 3. Create the environment
 
 ```console
 $ conda env create -f binder/environment.yml
 ```
 
-4. Activate teh environment
+4. Activate the environment
 
 ```console
 $ conda activate pandorable-pandas
